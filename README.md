@@ -1,4 +1,4 @@
-# Free TON Solidity support for Visual Studio Code
+Free TON Solidity support for Visual Studio Code
 [![Version](https://vsmarketplacebadge.apphb.com/version/podlodkin.podlodkin-freeton-vscode-solidity.svg)](https://marketplace.visualstudio.com/items?itemName=podlodkin.podlodkin-freeton-vscode-solidity)  
 
 Free TON Solidity is the language used in Free TON to create smart contracts. 
